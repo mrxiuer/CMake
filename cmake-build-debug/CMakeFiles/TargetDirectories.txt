@@ -1,3 +1,0 @@
-D:/c语言_make/CMake/cmake-build-debug/CMakeFiles/CMake.dir
-D:/c语言_make/CMake/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/c语言_make/CMake/cmake-build-debug/CMakeFiles/rebuild_cache.dir
